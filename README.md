@@ -35,7 +35,7 @@ The repository includes the following files:
 ## Demonstration Videos
 Explore the functionalities through demonstration videos:
 
-- [Cattle State Detection Video](videos/conf_index_output.mp4)
+- [Cattle State Detection Video](videos/conf_index_output-ezgif.com-video-to-gif-converter.gif)
 - [Pose Estimation Video](link-to-pose-estimation-video)
 
 ## Applications
