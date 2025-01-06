@@ -26,17 +26,12 @@ The repository includes the following files:
 ## Example Outputs
 ### Cattle State Detection
 - Example output for state detection:
-  ![Detection Example](path-to-detection-sample.gif)
+![Cattle State Detection Video](videos/state_detection.gif)
 
 ### Pose Estimation
 - Example output for pose estimation:
-  ![Pose Estimation Example](path-to-pose-sample.gif)
+![Cattle State Detection Video](videos/pose_estimation.gif)
 
-## Demonstration Videos
-Explore the functionalities through demonstration videos:
-
-![Cattle State Detection Video](videos/conf_index_output-ezgif.com-video-to-gif-converter.gif)
-- [Pose Estimation Video](link-to-pose-estimation-video)
 
 ## Applications
 - **Livestock Monitoring**: Enhance farm management by analyzing cattle states and motions.
