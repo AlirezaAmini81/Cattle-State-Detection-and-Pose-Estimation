@@ -38,15 +38,3 @@ The repository includes the following files:
 - **Behavior Analysis**: Gain insights into activity patterns for improved welfare.
 - **Motion Studies**: Leverage pose estimation for detailed motion tracking and health analysis.
 
-## Future Enhancements
-- Add multi-class activity recognition for cattle.
-- Incorporate live streaming for real-time monitoring.
-- Extend capabilities to detect and analyze other livestock species.
-
-## Acknowledgments
-Special thanks to the PyTorch and YOLOv8 communities for their invaluable resources and support.
-
----
-
-Feel free to contribute or raise issues. For questions, contact the repository maintainer.
-
